@@ -44,6 +44,7 @@ Below is the exact mapping between the archived notebooks in this repository and
 
 | Notebook in Repository | Topic | Video Demo |
 |---|---|---|
+| `Neural Network Playground Demo Video` | Neural Network Playground Demo Video | [Neural Network Playground Demo Video](https://youtu.be/8i-M8hmqXPQ) |
 | `Colab_1_neural_networks_from_scratch_EXECUTED.ipynb` | Neural Network from Scratch | [Neural Network from scratch](https://youtu.be/HkpazFqAMA4) |
 | `calculus_for_deep_learning_FULLY_RUNNABLE_EXECUTED.ipynb` | Calculus for Deep Learning | [Calculus demo](https://youtu.be/O7bLXcFJ800) |
 | `colab_2_pytorch_neural_networks_tutorial_EXECUTED.ipynb` | PyTorch Neural Networks Tutorial | [Colab2 pytorch neural network](https://youtu.be/LZjPB4qs_GQ) |
