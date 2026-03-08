@@ -45,21 +45,23 @@ Below is the exact mapping between the archived notebooks in this repository and
 | Notebook in Repository | Topic | Video Demo |
 |---|---|---|
 | `Neural Network Playground Demo Video` | Neural Network Playground Demo Video | [Neural Network Playground Demo Video](https://youtu.be/8i-M8hmqXPQ) |
-| `Colab_1_neural_networks_from_scratch_EXECUTED.ipynb` | Neural Network from Scratch | [Neural Network from scratch](https://youtu.be/HkpazFqAMA4) |
-| `calculus_for_deep_learning_FULLY_RUNNABLE_EXECUTED.ipynb` | Calculus for Deep Learning | [Calculus demo](https://youtu.be/O7bLXcFJ800) |
-| `colab_2_pytorch_neural_networks_tutorial_EXECUTED.ipynb` | PyTorch Neural Networks Tutorial | [Colab2 pytorch neural network](https://youtu.be/LZjPB4qs_GQ) |
-| `colab_3_keras_tensorflow_neural_networks_tutorial_EXECUTED.ipynb` | Keras/TensorFlow Neural Networks Tutorial | [Colab 3 keras tensorflow neural network](https://youtu.be/CMArCmLs7Nc) |
-| `colab_4_jax_neural_networks_tutorial_CLEAN (1).ipynb` | JAX Neural Networks Tutorial | [Colab 4 jax video](https://youtu.be/M1fX_TgSUho) |
-| `colab_4_pytorch_tensors_from_zero_to_hero_EXECUTED.ipynb` | PyTorch Tensors from Zero to Hero | [Recording 4 Pytorch 0 to hero 1](https://youtu.be/i2_uu7VbtNM) and [Recording 4 Pytorch 0 to hero 2](https://youtu.be/ifPOW8MqDRg) |
+| `Colab_1_neural_networks_from_scratch_EXECUTED.ipynb` | Colab 1 - neural_networks_from_scratch | [Neural Network from scratch](https://youtu.be/HkpazFqAMA4) |
+| `calculus_for_deep_learning_FULLY_RUNNABLE_EXECUTED.ipynb` | Calculus for deep learning colab | [Calculus demo](https://youtu.be/O7bLXcFJ800) |
+| `colab_2_pytorch_neural_networks_tutorial_EXECUTED.ipynb` | Master PyTorch from First Principles to Production-Ready Code | [Colab2 pytorch neural network](https://youtu.be/LZjPB4qs_GQ) |
+| `colab_3_keras_tensorflow_neural_networks_tutorial_EXECUTED.ipynb` | Master TensorFlow and Keras from First Principles to Production-Ready Code | [Colab 3 keras tensorflow neural network](https://youtu.be/CMArCmLs7Nc) |
+| `colab_4_jax_neural_networks_tutorial_CLEAN (1).ipynb` | advanced jax | [Colab 4 jax video](https://youtu.be/M1fX_TgSUho) |
+| `colab_4_pytorch_tensors_from_zero_to_hero_EXECUTED.ipynb` | Intro to pytorch tensors | [Recording 4 Pytorch 0 to hero 1](https://youtu.be/i2_uu7VbtNM) and [Recording 4 Pytorch 0 to hero 2](https://youtu.be/ifPOW8MqDRg) |
 | `colab_5_jax_deep_learning_tutorial_EXECUTED.ipynb` | JAX Deep Learning Tutorial | [Colab 5 Jax Demo 1](https://youtu.be/z2i7ajPgC8U) and [Colab 5 Jax Demo 2](https://youtu.be/c8bF-w1SI4E) |
-| `keras_tensorflow_advanced_tutorial_EXECUTED.ipynb` | Keras/TensorFlow Advanced Tutorial | [Keras tensorflow advanced](https://youtu.be/-hv0-xujGT8) |
+| `keras_tensorflow_advanced_tutorial_EXECUTED.ipynb` | Advanced tensorflow colab | [Keras tensorflow advanced](https://youtu.be/-hv0-xujGT8) |
 | `linear_algebra_for_deep_learning_EXECUTED.ipynb` | Linear Algebra for Deep Learning | [Linear Algebra for Deep Learning](https://youtu.be/IbgRIT7R6Wc) |
-| `numpy_foundations_for_deep_learning_EXECUTED.ipynb` | NumPy Foundations for Deep Learning | [Numpy foundation notebook record](https://youtu.be/X5kyJNDBsRA) |
-| `probability_for_deep_learning_EXECUTED.ipynb` | Probability for Deep Learning | [Probability for Deep Learning](https://youtu.be/N6_cMFGjMhI) |
-| `probability_fundamentals_for_deep_learning_EXECUTED.ipynb` | Probability Fundamentals for Deep Learning | [Probabiliy Fundamentals](https://youtu.be/vR3pYfE3ipA) |
-| `pytorch_advanced_tutorial_EXECUTED.ipynb` | PyTorch Advanced Tutorial | [Pytorch advanced tutorial](https://youtu.be/5UCf-TxyIws) |
-| `tensorflow_tensor_operations_tutorial_EXECUTED.ipynb` | TensorFlow Tensor Operations Tutorial | [tensorflow tensor operations tutorial](https://youtu.be/7us5YxrGSCA) |
-| `why_deep_learning_works_geometric_intuition_EXECUTED.ipynb` | Why Deep Learning Works - Geometric Intuition | [Why deep learning works geometric intuition](https://youtu.be/Hqi2H-ipFbk) |
+| `numpy_foundations_for_deep_learning_EXECUTED.ipynb` | Introduction to numpy | [Numpy foundation notebook record](https://youtu.be/X5kyJNDBsRA) |
+| `probability_for_deep_learning_EXECUTED.ipynb` | Probability for deep learning colab 2 | [Probability for Deep Learning](https://youtu.be/N6_cMFGjMhI) |
+| `probability_fundamentals_for_deep_learning_EXECUTED.ipynb` | Probability for deep learning colab 1 | [Probabiliy Fundamentals](https://youtu.be/vR3pYfE3ipA) |
+| `pytorch_advanced_tutorial_EXECUTED.ipynb` | Advanced pytorch | [Pytorch advanced tutorial](https://youtu.be/5UCf-TxyIws) |
+| `tensorflow_tensor_operations_tutorial_EXECUTED.ipynb` | Intro to tensorflow tensors | [tensorflow tensor operations tutorial](https://youtu.be/7us5YxrGSCA) |
+| `why_deep_learning_works_geometric_intuition_EXECUTED.ipynb` | Why neural networks work - geometric intuition colab | [Why deep learning works geometric intuition](https://youtu.be/Hqi2H-ipFbk) |
+| `numpy_foundations_for_deep_learning_EXECUTED.ipynb` | Introduction to numpy colab | [Numpy foundation notebook record](https://youtu.be/X5kyJNDBsRA) |
+| `colab_5_jax_deep_learning_tutorial_EXECUTED.ipynb` | Intro to Jax | [Colab 5 Jax Demo 1](https://youtu.be/z2i7ajPgC8U) and [Colab 5 Jax Demo 2](https://youtu.be/c8bF-w1SI4E) |
 
 ## What the videos explain
 
